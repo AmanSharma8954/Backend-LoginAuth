@@ -10,6 +10,15 @@ This is the backend implementation for a User Login And SignUp where a new user 
 - RESTful API
 - JWT
 
+## How to use
+```
+  git clone git@github.com:AmanSharma8954/Backend-LoginAuth.git
+
+  npm i
+
+  npm run dev
+```
+
 ## Tasks 
 This project involves implementation the following tasks:
 
